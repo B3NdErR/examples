@@ -13,7 +13,7 @@ authorAvatar: 'https://avatars2.githubusercontent.com/u/2322?v=4&s=140'
 
 Make sure `serverless` is installed. [See installation guide](https://serverless.com/framework/docs/providers/openwhisk/guide/installation/).
 
-You will also need to set up your OpenWhisk account credentials using environment variables or a configuration file. Please see the [this guide for more information](https://serverless.com/framework/docs/providers/openwhisk/guide/credentials/).
+You will also need to set up your OpenWhisk account credentials using environment variables or a configuration file. Please see [this guide for more information](https://serverless.com/framework/docs/providers/openwhisk/guide/credentials/).
 
 ## 1. Install Provider Plugin & Service Dependencies
 `npm install` in this directory to download the modules from `package.json`.
